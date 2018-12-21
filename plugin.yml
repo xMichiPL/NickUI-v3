@@ -1,0 +1,6 @@
+name: NickUI
+version: 3.0.0
+api: 3.0.0
+main: NickUI\Main
+author: Lover_BOY636
+description: Allow change your nickname.
